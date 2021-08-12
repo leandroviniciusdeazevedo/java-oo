@@ -1,4 +1,4 @@
-package br.com.javaoo.entities;
+package entities;
 
 public class Product {
 

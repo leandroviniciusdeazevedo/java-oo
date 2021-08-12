@@ -1,5 +1,3 @@
-package br.com.javaoo;
-
 import br.com.javaoo.entities.Product;
 
 import java.util.Locale;
